@@ -1,3 +1,3 @@
 # SummerBitcoin
 
-##This project contains code for Summer of Bitcoin Project
+## This project contains code for Summer of Bitcoin Project
